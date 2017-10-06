@@ -11,7 +11,7 @@ Vue.jsで動的にモーダルウィンドウを表示する
 ### インストール
 
 ```
-git install https://github.com/asaokamei/vue2-dynamic-modal
+git clone https://github.com/asaokamei/vue2-dynamic-modal
 ```
 
 * 静的なモーダルウィンドウ: [index.html](index.html).

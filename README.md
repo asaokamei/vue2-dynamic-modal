@@ -9,7 +9,7 @@ but many of the samples have a static content modal window.
 ### install
 
 ```
-git install https://github.com/asaokamei/vue2-dynamic-modal
+git clone https://github.com/asaokamei/vue2-dynamic-modal
 ```
 
 * static modal window: [index.html](index.html).
